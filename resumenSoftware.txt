@@ -1,0 +1,4 @@
+Ejemplos de Software: 
+1. Wondershare Filmora.
+2. Visual Studio Code.
+3. GNU/Linux.
